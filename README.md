@@ -8,4 +8,4 @@ Full Stack Java Developer | Frontend Developer | Web Developer | Currently Persu
 [![My Skills](https://skillicons.dev/icons?i=github,linkedin)](https://skillicons.dev)
 
 # GitHub Commits graph
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhJishan24&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhJishan24&theme=tokyonight&langs_count=8)
